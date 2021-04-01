@@ -1,0 +1,11 @@
+problem_simple.o: problem_simple.cc common.hh problem_simple.hh \
+ geometry.hh
+test_problem.o: test_problem.cc common.hh test_problem.hh geometry.hh
+buffer.o: buffer.cc buffer.hh common.hh
+common.o: common.cc common.hh
+geometry.o: geometry.cc common.hh geometry.hh region.hh buffer.hh
+region.o: region.cc region.hh buffer.hh common.hh geometry.hh
+region_tr.o: region_tr.cc region.hh buffer.hh common.hh geometry.hh
+geometry.o: geometry.cc common.hh geometry.hh region.hh buffer.hh
+multigrid.o: multigrid.cc multigrid.hh buffer.hh common.hh geometry.hh \
+ region.hh
