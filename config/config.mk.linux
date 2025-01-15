@@ -1,6 +1,9 @@
 # C++ compiler
 cxx=g++ -fopenmp
 
+# MPI C++ compiler
+mpicxx=mpic++
+
 # Compilation flags
 cflags=-Wall -ansi -pedantic -O3
 

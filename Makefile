@@ -1,6 +1,6 @@
 # 3D parallel geometric multigrid makefile
 #
-# Author : Chris H. Rycroft (Harvard SEAS / LBL)
+# Author : Chris H. Rycroft (UW-Madison / LBL)
 # Email  : chr@alum.mit.edu
 # Date   : April 1st 2021
 

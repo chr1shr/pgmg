@@ -36,7 +36,7 @@ After this, the code examples can be compiled by typing
 make
 ```
 ## Contact
-For questions about the code, contact [Chris Rycroft](http://seas.harvard.edu/~chr/).
+For questions about the code, contact [Chris Rycroft](https://people.math.wisc.edu/~chr/).
 
 ## Acknowledgments
 This work has been partially supported by the National Science Foundation under
